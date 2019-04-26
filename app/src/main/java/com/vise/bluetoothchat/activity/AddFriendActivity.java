@@ -39,6 +39,7 @@ import java.util.Map;
  */
 public class AddFriendActivity extends BaseChatActivity {
 
+
     private ProgressBar mScanPb;
     private ListView mAddFriendLv;
     private ProgressDialog mProgressDialog;
